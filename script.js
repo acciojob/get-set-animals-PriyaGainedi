@@ -1,6 +1,5 @@
 //complete this code
 class Animal {
-	species;
 	constructor(species){
 		this.species = species;
 	}
